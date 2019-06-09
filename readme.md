@@ -8,6 +8,12 @@ The routes handling the requests are defined in `server/routes/`
 
 The data definition for the database is in `ddl.sql`
 
+**Todo**
+
+* Android app
+  - implementing the API via Retrofit
+  - responsive layout
+
 ## `users`
 
 `POST /users`
